@@ -1,4 +1,4 @@
-import requests  # type: ignore
+import requests  
 
 # Replace with your own API key
 api_key = "1432a1c5e57a0ba064c48766334cd1e5"
